@@ -1,0 +1,89 @@
+body {
+  background-color: #6a097d;
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  color: orange;
+}
+
+.toadette {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  left: 149px;
+}
+
+.minecraft {
+  position: absolute;
+  height: 300px;
+  width: 400px;
+}
+.mariobrothers {
+  height: 300px;
+  width: 500px;
+}
+
+.lego {
+  position: absolute;
+  height: 250px;
+  width: 250px;
+  bottom: 40px;
+  left: 149px;
+}
+
+.chill {
+  position: absolute;
+  height: 250px;
+  width: 250px;
+  bottom: 40px;
+  right: 149px;
+}
+
+
+.gameon {
+  position: absolute;
+  height: 250px;
+  width: 250px;
+  bottom: 40px;
+  right: 670px;
+}
+
+a:hover {
+  color: yellow;
+}
+
+.youtube {
+  font-size: 30px;
+  color: white;
+}
+
+.audio1 {
+  position: absolute;
+  left: 149px;
+}
+
+.vac {
+  position: absolute;
+  bottom: 200px;
+  color: white;
+  font-size: 25px;
+  left: 465px;
+}
+
+.mfc {
+  position: absolute;
+  bottom: 150px;
+  color: white;
+  font-size: 25px;
+  left: 415px;
+}
+
+.home {
+  position: absolute;
+  bottom: 170px;
+  color: white;
+  font-size: 25px;
+  right: 515px;
+
+}

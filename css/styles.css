@@ -1,0 +1,127 @@
+
+.minnie {
+  position: absolute;
+  top: 150px;
+  left: 150px;
+  height: 480px;
+  width: 330px;
+  border-color: white;
+  border-width: 20px;
+  border-style: groove;
+}
+
+.bow {
+  position: absolute;
+  left: 310px;
+  top: 20px;
+  height: 105px;
+  width: 95px;
+}
+
+.cuteheart {
+  position: absolute;
+  top: 10px;
+  right: 300px;
+  height: 150px;
+  width: 100px;
+}
+
+.ribbon {
+  position: absolute;
+  top: 80px;
+  left: 292px;
+}
+
+.play {
+  position: absolute;
+  bottom: 25px;
+  left: 150px;
+  height: 100px;
+  width: 85px;
+}
+
+.fireworks {
+  position: absolute;
+  top: 10px;
+  right: 0px;
+}
+
+.audiohome {
+  position: absolute;
+  bottom: 60px;
+  left: 250px;
+  height: 30px;
+  width: 180px;
+}
+
+.anna {
+  position: absolute;
+  top: 120px;
+  left: 520px;
+}
+
+
+.skylon {
+  position: absolute;
+  top: 150px;
+  right: 150px;
+  height: 480px;
+  width: 330px;
+  border-color: white;
+  border-width: 20px;
+  border-style: groove;
+
+}
+
+.train {
+  position: absolute;
+  bottom: 5px;
+  right: 200px;
+  height: 150px;
+  width: 350px;
+}
+
+body {
+  background-color: pink;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 65px;
+  margin: 50px auto 0 auto;
+  color: purple;
+  font-family: 'Sacramento', cursive;
+}
+
+a:hover {
+  color: blue;
+}
+
+.home {
+
+  position: absolute;
+  bottom: 60px;
+  left: 750px;
+  color: purple;
+  font-size: 15px;
+  }
+
+a {
+  color: purple;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.myvac {
+  position: absolute;
+  left: 730px;
+}
+.myfc {
+  position: absolute;
+  left: 660px;
+}
+.deannagr {
+  position: absolute;
+  left: 660px;
+}

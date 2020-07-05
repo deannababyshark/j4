@@ -1,0 +1,108 @@
+body {
+  background-color:#32e0c4 ;
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  color: red;
+  font-size: 35px;
+}
+p {
+  color: red;
+  font-size: 30px;
+}
+video {
+  position: absolute;
+  left: -726px;
+  top: 15px;
+  height: 335px;
+  width:  650px;
+  border-color: white;
+  border-width: 20px;
+  border-style: groove;
+}
+.moana {
+  position: absolute;
+  top: 130px;
+  right: 440px;
+}
+
+
+.ravengif {
+  position: absolute;
+  height: 260px;
+  width: 360px;
+  top: 145px;
+  left: 30px;
+  border-color: white;
+  border-width: 10px;
+  border-style: groove;
+
+}
+.conniegif {
+  position: absolute;
+  height: 300px;
+  width: 420px;
+  top: 425px;
+  right: 30px;
+  border-color: white;
+  border-width: 10px;
+  border-style: groove;
+}
+
+.pettygif {
+  position: absolute;
+  height: 260px;
+  width: 360px;
+  top: 465px;
+  left: 30px;
+  border-color: white;
+  border-width: 10px;
+  border-style: groove;
+
+}
+.disneymice {
+  position: absolute;
+  height: 250px;
+  width: 420px;
+  top: 145px;
+  right: 30px;
+  border-color: white;
+  border-width: 10px;
+  border-style: groove;
+
+}
+
+a:hover {
+  color: blue;
+}
+
+.vac {
+  color: red;
+  position: absolute;
+  bottom: 230px;
+  left: 700px;
+  font-size: 25px;
+
+}
+
+.dgr {
+  color: red;
+  position: absolute;
+  bottom: 180px;
+  left: 648px;
+  font-size: 25px;
+}
+.home {
+  color: red;
+  position: absolute;
+  bottom: 130px;
+  left: 740px;
+  font-size: 25px;
+}
+
+.characterpagemusic {
+  position: absolute;
+  bottom: 85px;
+  left: 420px;
+}

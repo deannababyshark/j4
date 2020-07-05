@@ -1,0 +1,26 @@
+body {
+  background-color: gold;
+  margin: 0;
+  text-align: center;
+}
+h1{
+  color: purple;
+  font-size: 35px;
+}
+video {
+  height: 535px;
+  width: : 950px;
+  border-color: white;
+  border-width: 20px;
+  border-style: groove;
+}
+p {
+  color: purple;
+  font-size: 25px;
+}
+
+a {
+  color: purple;
+
+  font-size: 15px;
+}
